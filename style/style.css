@@ -86,6 +86,7 @@ main{
     background: #FFF8F3;
     border-radius: 10px;
     padding: 130px 150px;
+    margin-bottom: 130px;
 }
 .section-title{
     
@@ -109,4 +110,12 @@ main{
 .info-description{
     font-size: 20px;
     color: #474747
+}
+/* what i do section */
+.what-i-do{
+    text-align: center;
+    margin-top: 130px;
+    /* background: #FFF8F3; */
+    border-radius: 10px;
+    padding: 130px 50px;
 }
